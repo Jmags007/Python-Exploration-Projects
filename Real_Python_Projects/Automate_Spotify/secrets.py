@@ -1,0 +1,5 @@
+spotify_token = "fe7f0111639f403e84c20745f437c170"
+spotify_user_id = "1265036424"
+#client ID: "de3956274cf041b08429de759208bcde"
+#spotify_user_id = "1265036424"
+#Client secrets: "fe7f0111639f403e84c20745f437c170"
